@@ -1,0 +1,6 @@
+Name	Qty	Part#				Notes
+PCB1 	1 	RP-33 redux PCB 					
+IC1  	1 	KM62256CLTG-7L			Forward pinout, low power
+C1   	1 	0.1uf 0603 capacitor
+SCRW1	3	1.7mmx0.35x3 pan head screw	4mm length OK too
+SHM1	1	3D printed shim
